@@ -1,6 +1,7 @@
 Author: Carl Winkler
 Date: 03. December 2021
-Contact: carl.Winkler@ucdconnect.ie
+
+The data comes from: http://fakenews.research.sfu.ca/#parseWebs
 
 Procedure to run the system:
 
@@ -24,4 +25,4 @@ Run board.py to start the webserver
 5. Step
 Enjoy the application
 
-
+![This is how the Web-Interface looks like](https://github.com/Chipato1/[reponame]/blob/[branch]/image.jpg?raw=true)
