@@ -1,4 +1,4 @@
-""" hive_functions.py
+""" board.py
     Author:         Carl Winkler
     Date:           03. December 2021
     Description:    A simple dash-server solution for a visula web-dashboard of a fake-news data warehouse
