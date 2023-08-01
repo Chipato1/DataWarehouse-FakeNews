@@ -25,4 +25,11 @@ Run board.py to start the webserver
 5. Step
 Enjoy the application
 
+The Interface view in your browser:
+
 ![This is how the Web-Interface looks like](https://github.com/Chipato1/DataWarehouse-FakeNews/blob/main/Full_View.png)
+
+
+Quick overview of the structure:
+
+![This is how the Software is structured](https://github.com/Chipato1/DataWarehouse-FakeNews/blob/main/structure.png)
