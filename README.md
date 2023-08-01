@@ -3,6 +3,12 @@ Date: 03. December 2021
 
 The data comes from: http://fakenews.research.sfu.ca/#parseWebs
 
+The potential web-interface view:
+
+![This is how the Web-Interface looks like](https://github.com/Chipato1/DataWarehouse-FakeNews/blob/main/Full_View.png)
+
+
+
 Procedure to run the system:
 
 1. Step (Stick to report.pdf for a more detailed description)
@@ -24,10 +30,6 @@ Run board.py to start the webserver
 
 5. Step
 Enjoy the application
-
-The Interface view in your browser:
-
-![This is how the Web-Interface looks like](https://github.com/Chipato1/DataWarehouse-FakeNews/blob/main/Full_View.png)
 
 
 Quick overview of the structure:
