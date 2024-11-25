@@ -1,4 +1,5 @@
 Author: Carl Winkler
+
 Date: 03. December 2021
 
 The data comes from: http://fakenews.research.sfu.ca/#parseWebs
